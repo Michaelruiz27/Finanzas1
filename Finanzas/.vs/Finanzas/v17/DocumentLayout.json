@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|c:\\users\\dell\\onedrive\\escritorio\\finanzas-main\\finanzas\\finanzas\\integrantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\integrantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\integrantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\integrantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|c:\\users\\dell\\onedrive\\escritorio\\finanzas-main\\finanzas\\finanzas\\estado de resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\estado de resultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\razones_liquidez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\razones_liquidez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\rentabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\rentabilidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|c:\\users\\dell\\onedrive\\escritorio\\finanzas-main\\finanzas\\finanzas\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\actividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\endeudamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\endeudamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\balance general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\balance general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\finanzas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EA8C005-0F7E-44B5-817A-39CF4462C52A}|Finanzas\\Finanzas.csproj|solutionrelative:finanzas\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actividad.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Actividad.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Actividad.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Actividad.cs",
+              "RelativeToolTip": "Finanzas\\Actividad.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswD0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:57:58.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actividad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Actividad.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Actividad.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Actividad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Actividad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:43:11.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rentabilidad.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Rentabilidad.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Rentabilidad.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Rentabilidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Rentabilidad.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:42:04.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "razones_Liquidez.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\razones_Liquidez.cs",
+              "RelativeDocumentMoniker": "Finanzas\\razones_Liquidez.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\razones_Liquidez.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\razones_Liquidez.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:36:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estado de Resultado.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Estado de Resultado.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Estado de Resultado.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Estado de Resultado.cs [Design]",
+              "RelativeToolTip": "Finanzas\\Estado de Resultado.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:06:42.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Endeudamiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Endeudamiento.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Endeudamiento.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Endeudamiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Endeudamiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:51:15.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Balance general.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Balance general.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Balance general.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Balance general.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Balance general.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:06:37.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Menu.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Menu.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:00:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Integrantes.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Integrantes.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Integrantes.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Integrantes.cs",
+              "RelativeToolTip": "Finanzas\\Integrantes.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:47:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Integrantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Integrantes.cs",
+              "RelativeDocumentMoniker": "Finanzas\\Integrantes.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Escritorio\\Finanzas-main\\Finanzas\\Finanzas\\Integrantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas\\Integrantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:46:31.118Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
